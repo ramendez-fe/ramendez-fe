@@ -7,7 +7,7 @@ I specialize in the orchestration, transformation, and optimization of massive d
 
 ### Technical Architecture
 * **Big Data & Processing:** Apache Spark, PySpark, Databricks, Spark SQL.
-* **Cloud & Orchestration:** Azure Data Factory, Microsoft Fabric (OneLake), ADLS Gen2, AWS (S3, CloudWatch), GCP (Fundamentals).
+* **Cloud & Orchestration:** Azure (Data Factory, ADLS Gen2), Microsoft Fabric, AWS (S3, CloudWatch), GCP (Fundamentals).
 * **Core Data & Relational:** Oracle PL/SQL (Advanced SQL Tuning), PostgreSQL, T-SQL.
 * **Languages & Automation:** Python, Java, Shell/Bash.
 * **CI/CD & Governance:** Git, Jenkins, Bitbucket.
